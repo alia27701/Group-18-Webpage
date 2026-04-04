@@ -88,3 +88,13 @@ button {
 button:hover {
     background: #0056b3;
 }
+
+.muhilan_box{
+    background-color: lightblue;
+    border: 2px solid lightblue;
+    padding:2px;
+    margin: 10px;
+}
+#bio2{
+    color:black;
+}
